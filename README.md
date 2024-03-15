@@ -360,7 +360,23 @@
           <div class="card-body">
             <div class="h5">Electro Tecnic</div>
             <p class="category">State vocational high school 35 Jakarta</p>
-            <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
+            <p>Majors that educate students to have abilities and skills in the field of electrical control and maintenance industrial equipment systems based on electrical control and micro processor.
+
+Department of Electronics which is one of the favorite majors in Vocational High School.Expertise that studies engineering and focuses on learning all electrical components as well as various semi-conductor equipment.What is learned in this major is like:
+
+Basic Electrical Engineering
+Workshop Work
+Engineering Image
+Programming Technique
+Microprocessor
+Applied Electronics
+Microcontroller
+Electronics Component Assembly
+Implementation of Electronics Series
+Video Audio System Planning and Installation
+Application of Radio and Television Systems
+Audio and Video Equipment Care and Repair
+Creative Products and Entrepreneurship</p>
           </div>
         </div>
       </div>
@@ -377,23 +393,7 @@
           <div class="card-body">
             <div class="h5">Bachelor of Computer Science</div>
             <p class="category">University of Computer Science</p>
-            <p>Majors that educate students to have abilities and skills in the field of electrical control and maintenance industrial equipment systems based on electrical control and micro processor.
-
-Department of Electronics which is one of the favorite majors in Vocational High School. adalah sebuah kompetensi keahlian yang mempelajari bidang teknik dan berfokus untuk mempelajari semua komponen listrik serta berbagai peralatan semi konduktor. What is learned in this major is like:
-
-Basic Electrical Engineering
-Workshop Work
-Engineering Image
-Programming Technique
-Microprocessor
-Applied Electronics
-Microcontroller
-Electronics Component Assembly
-Implementation of Electronics Series
-Video Audio System Planning and Installation
-Application of Radio and Television Systems
-Audio and Video Equipment Care and Repair
-Creative Products and Entrepreneurship</p>
+            <p>Nothing</p>
           </div>
         </div>
       </div>
