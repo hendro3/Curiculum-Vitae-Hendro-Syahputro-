@@ -64,7 +64,7 @@
           <div class="card-body">
             <div class="h4 mt-0 title">About</div>
             <p>May I present my name is Hendro Syahputro. I am very happy with my work as an electronics technician, and I am able to adjust my position regardless of where I work </p>
-            <p> <a href="https://templateflip.com/templates/creative-cv/" target="_blank">Learn More</a></p>
+            <p> <a href="https://hendro3.github.io/cvHendro/#" target="_blank">Learn More</a></p>
           </div>
         </div>
         <div class="col-lg-6 col-md-12">
