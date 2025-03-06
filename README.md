@@ -308,7 +308,7 @@
             <div class="h5">Technician Platform Screen Door</div>
             <p>-perform routine maintenance every 1 monthly, 6 monthly, and 1 yearly platform screen door MRT Jakarta.
             - carry out repairs and replace spare parts for the platform screen door MRT Jakarta 
-            - assist in training platform security officers </p>
+            - assist in training platform security officers on securing devices on platform screen door </p>
           </div>
       </div>
     </div>
@@ -406,7 +406,7 @@ Creative Products and Entrepreneurship</p>
         </div>
       </div>
     </div>
-    <div class="card">
+  <!-- <div class="card">
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-education-header">
@@ -441,7 +441,7 @@ Creative Products and Entrepreneurship</p>
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <div class="section" id="reference">
   <div class="container cc-reference">
     <div class="h4 mb-4 text-center title">References</div>
@@ -572,4 +572,4 @@ Creative Products and Entrepreneurship</p>
     <script src="js/core/bootstrap.min.js"></script>
     <script src="js/now-ui-kit.js?v=1.1.0"></script>
     <script src="js/aos.js"></script>
-    <script src="scripts/main.js"></script></html>
+    <script src="scripts/main.js"></script>
