@@ -45,7 +45,7 @@
         <div class="content-center">
           <div class="cc-profile-image"><a href="#"><img src="images/fotoformal1.jpg" alt="Image"/></a></div>
           <div class="h2 title">HENDRO SYAHPUTRO</div>
-          <p class="category text-white">ELECTRO ENGINEERING, WEB DEVELOPER</p><a class="btn btn-primary smooth-scroll mr-2" href="https://www.linkedin.com/in/hendro-syahputro-ba59b320b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
+          <p class="category text-white">ELECTRO ENGINEERING, WEB DEVELOPER</p><a class="btn btn-primary smooth-scroll mr-2" href="https://www.linkedin.com/in/hendro-syahputro-ba59b320b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Contact me</a>
         </div>
       </div>
       <div class="section">
