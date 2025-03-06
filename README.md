@@ -473,11 +473,7 @@ Creative Products and Entrepreneurship</p>
         <div class="row">
           <div class="col-md-9">
             <div class="card mb-0" data-aos="zoom-in">
-              <div class="h4 text-center title">Contact Me</div>
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="card-body">
-                    <form
+              <form
   action="https://formspree.io/f/meoajoyb"
   method="POST"
 >
@@ -526,6 +522,10 @@ Creative Products and Entrepreneurship</p>
     }
   });
 </script>
+              <div class="h4 text-center title">Contact Me</div>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="card-body">
                 <div class="col-md-6">
                   <div class="card-body">
                     <p class="mb-0"><strong>Address </strong></p>
