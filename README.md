@@ -543,8 +543,9 @@ Creative Products and Entrepreneurship</p>
       </div>
     </div>
   </div>
-</div></div>
-    </div>
+</div>
+  </div>
+</div>
     <footer class="footer">
       <div class="container text-center"><a class="cc-facebook btn btn-link" href="#"><i class="fa fa-facebook fa-2x " aria-hidden="true"></i></a><a class="cc-linkedin btn btn-link " href="#"><i class="fa fa-linkedin fa-2x " aria-hidden="true"></i></a><a class="cc-google-plus btn btn-link" href="#"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a><a class="cc-instagram btn btn-link" href="#"><i class="fa fa-instagram fa-2x " aria-hidden="true"></i></a></div>
       <div class="h4 title text-center">Hendro Syahputro</div>
