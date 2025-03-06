@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>CV HENDRO</title>
+    <title>Curriculum Vitae  HENDRO</title>
     <meta name="description" content="Creative CV is a HTML resume template for professionals. Built with Bootstrap 4, Now UI Kit and FontAwesome, this modern and responsive design template is perfect to showcase your portfolio, skils and experience."/>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
@@ -45,12 +45,12 @@
         <div class="content-center">
           <div class="cc-profile-image"><a href="#"><img src="images/fotoformal1.jpg" alt="Image"/></a></div>
           <div class="h2 title">HENDRO SYAHPUTRO</div>
-          <p class="category text-white">ELECTRO ENGINEERING, WEB DEVELOPER</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
+          <p class="category text-white">ELECTRO ENGINEERING, WEB DEVELOPER</p><a class="btn btn-primary smooth-scroll mr-2" href="https://www.linkedin.com/in/hendro-syahputro-ba59b320b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
         </div>
       </div>
       <div class="section">
         <div class="container">
-          <div class="button-container"><a class="btn btn-default btn-round btn-lg btn-icon" href="https://www.facebook.com/share/19LqQ7NNuk/" rel="tooltip" title="Follow me on Facebook"><i class="fa fa-facebook"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Twitter"><i class="fa fa-twitter"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Google+"><i class="fa fa-google-plus"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="https://www.instagram.com/30hndro?igsh=MWlxdHQwZ3VwZjBx" rel="tooltip" title="Follow me on Instagram"><i class="fa fa-instagram"></i></a></div>
+          <div class="button-container"><a class="btn btn-default btn-round btn-lg btn-icon" href="https://www.facebook.com/share/19LqQ7NNuk/" rel="tooltip" title="Follow me on Facebook"><i class="fa fa-facebook"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="https://www.linkedin.com/in/hendro-syahputro-ba59b320b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" rel="tooltip" title="Follow me on LinkedIn"><i class="fa fa-linkedin"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Google+"><i class="fa fa-google-plus"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="https://www.instagram.com/30hndro?igsh=MWlxdHQwZ3VwZjBx" rel="tooltip" title="Follow me on Instagram"><i class="fa fa-instagram"></i></a></div>
         </div>
       </div>
     </div>
