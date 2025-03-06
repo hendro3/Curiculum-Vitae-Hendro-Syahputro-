@@ -473,6 +473,10 @@ Creative Products and Entrepreneurship</p>
         <div class="row">
           <div class="col-md-9">
             <div class="card mb-0" data-aos="zoom-in">
+              <div class="h4 text-center title">Contact Me</div>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="card-body">
               <form
   action="https://formspree.io/f/meoajoyb"
   method="POST"
@@ -522,18 +526,6 @@ Creative Products and Entrepreneurship</p>
     }
   });
 </script>
-              <div class="h4 text-center title">Contact Me</div>
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="card-body">
-                <div class="col-md-6">
-                  <div class="card-body">
-                    <p class="mb-0"><strong>Address </strong></p>
-                    <p class="pb-2">Jalan Al Amanah, Jakarta Barat, Wijaya Kusuma, Grogol Petamburan, DKI Jakarta, Indonesian</p>
-                    <p class="mb-0"><strong>Phone</strong></p>
-                    <p class="pb-2">+62 857-1496-5149</p>
-                    <p class="mb-0"><strong>Email</strong></p>
-                    <p>hendrosyahputro30102000@gmail.com</p>
                   </div>
                 </div>
               </div>
@@ -542,8 +534,6 @@ Creative Products and Entrepreneurship</p>
         </div>
       </div>
     </div>
-  </div>
-</div>
   </div>
 </div>
     <footer class="footer">
