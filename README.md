@@ -477,48 +477,40 @@ Creative Products and Entrepreneurship</p>
               <div class="row">
                 <div class="col-md-6">
                   <div class="card-body">
-                    <form action="https://formspree.io/f/{form_id}" method="post">
-  <label for="email">hendrosyahputro30102000@gmail.com</label>
-  <input name="Email" id="email" type="email">
-  <button type="submit">Submit</button>
-                    </form>
-                      <div class="p pb-3"><strong>Feel free to contact me </strong></div>
-                      <div class="row mb-3">
-                        <div class="col">
-                          <div class="input-group"><span class="input-group-addon"><i class="fa fa-user-circle"></i></span>
-                            <input class="form-control" type="text" name="name" placeholder="Name" required="required"/>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="row mb-3">
-                        <div class="col">
-                          <div class="input-group"><span class="input-group-addon"><i class="fa fa-file-text"></i></span>
-                            <input class="form-control" type="text" name="Subject" placeholder="Subject" required="required"/>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="row mb-3">
-                        <div class="col">
-                          <div class="input-group"><span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                            <input class="form-control" type="email" name="_replyto" placeholder="E-mail" required="required"/>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="row mb-3">
-                        <div class="col">
-                          <div class="form-group">
-                            <textarea class="form-control" name="message" placeholder="Your Message" required="required"></textarea>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="row">
-                        <div class="col">
-                          <button class="btn btn-primary" type="submit">Send</button>
-                        </div>
-                      </div>
-                    </form>
-                  </div>
-                </div>
+                    <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+<script>
+  /* paste this line in verbatim */
+  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
+  /* customize formbutton below*/     
+  formbutton("create", {
+    action: "https://formspree.io/f/meoajoyb",
+    title: "How can we help?",
+    fields: [
+      { 
+        type: "email", 
+        label: "Email:", 
+        name: "email",
+        required: true,
+        placeholder: "your@email.com"
+      },
+      {
+        type: "textarea",
+        label: "Message:",
+        name: "message",
+        placeholder: "What's on your mind?",
+      },
+      { type: "submit" }      
+    ],
+    styles: {
+      title: {
+        backgroundColor: "gray"
+      },
+      button: {
+        backgroundColor: "gray"
+      }
+    }
+  });
+</script>
                 <div class="col-md-6">
                   <div class="card-body">
                     <p class="mb-0"><strong>Address </strong></p>
