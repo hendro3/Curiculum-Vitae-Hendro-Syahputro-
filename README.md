@@ -477,7 +477,7 @@ Creative Products and Entrepreneurship</p>
               <div class="row">
                 <div class="col-md-6">
                   <div class="card-body">
-                    <form action="https://formspree.io/hendrosyahputro30102000@gmail.com" method="POST">
+                    <form action="https://formspree.io/register" method="POST">
                       <div class="p pb-3"><strong>Feel free to contact me </strong></div>
                       <div class="row mb-3">
                         <div class="col">
