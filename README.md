@@ -489,7 +489,6 @@ Creative Products and Entrepreneurship</p>
     Your message:
     <textarea name="message"></textarea>
   </label>
-  <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
                     <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
@@ -549,5 +548,4 @@ Creative Products and Entrepreneurship</p>
     <script src="js/now-ui-kit.js?v=1.1.0"></script>
     <script src="js/aos.js"></script>
     <script src="scripts/main.js"></script>
-  </body>
 </html>
