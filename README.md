@@ -299,14 +299,32 @@
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
-            <p>March 2016 - Present</p>
-            <div class="h5">CreativeM</div>
+            <p>March 2020 - Present</p>
+            <div class="h5">PT Len Rekaprima Semesta</div>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Front End Developer</div>
-            <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
+            <div class="h5">Technician Platform Screen Door</div>
+            <p>-perform routine maintenance every 1 monthly, 6 monthly, and 1 yearly platform screen door MRT Jakarta.
+            - carry out repairs and replace spare parts for the platform screen door MRT Jakarta 
+            - assist in training platform security officers </p>
+          </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-experience-header">
+            <p>January  2020 - April  2020</p>
+            <div class="h5">PT Len Rekaprima Semesta</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Technician Radio Cabin (Simoco)</div>
+            <p>-carry out routine checks and maintenance of the driver's radio communication with the control center.
+            -carry out repairs and installation of radio communications in the driver's cabin.</p>
           </div>
         </div>
       </div>
@@ -315,14 +333,17 @@
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
-            <p>April 2014 - March 2016</p>
-            <div class="h5">WebNote</div>
+            <p>December 2019</p>
+            <div class="h5">PT Zyrex indo Mandiri Buana</div>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Web Developer</div>
-            <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
+            <div class="h5">Technical Service Specialist</div>
+            <p>- Repaired the battery, screen, and engine of the Zyrex tablet type ZT216.
+- Inserting the imei number on the Zyrex tablet ZT216.
+- Rechecked Zyrex ZT216 tablet products before marketing.
+- Packed Zyrex ZT216 tablet products.</p>
           </div>
         </div>
       </div>
@@ -331,14 +352,18 @@
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
-            <p>April 2013 - February 2014</p>
-            <div class="h5">WEBM</div>
+            <p>September  2017 - December 2017</p>
+            <div class="h5">PT Daikin Air Conditioning Indonesia</div>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Intern</div>
-            <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
+            <div class="h5">Support Technician </div>
+            <p>- Analyse evaporator leaks and repair by welding with the assistance of a certified technician.
+- Analyse any damage to indoor and outdoor units.
+- Analyse any damage to AC parts, indoor unit modules, and outdoor unit modules in inverter and non-inverter series.
+- Simulate AC units on special tools in the workshop before the unit is marketed or returned to the customer.
+- Assist admin in checking files related to AC units.</p>
           </div>
         </div>
       </div>
@@ -547,5 +572,4 @@ Creative Products and Entrepreneurship</p>
     <script src="js/core/bootstrap.min.js"></script>
     <script src="js/now-ui-kit.js?v=1.1.0"></script>
     <script src="js/aos.js"></script>
-    <script src="scripts/main.js"></script>
-</html>
+    <script src="scripts/main.js"></script></html>
