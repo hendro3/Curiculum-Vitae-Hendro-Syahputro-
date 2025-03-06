@@ -477,6 +477,21 @@ Creative Products and Entrepreneurship</p>
               <div class="row">
                 <div class="col-md-6">
                   <div class="card-body">
+                    <form
+  action="https://formspree.io/f/meoajoyb"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
                     <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
 <script>
   /* paste this line in verbatim */
